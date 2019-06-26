@@ -1,5 +1,5 @@
 Name:		unicode-cldr-annotations
-Version:	33.0.0_1
+Version:	35.12.14971_0
 Release:	3
 Summary:	Annotation files from the Unicode Common Locale Data Repository
 Group:		System/Libraries
