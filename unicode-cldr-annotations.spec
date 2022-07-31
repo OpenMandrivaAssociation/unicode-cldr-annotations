@@ -1,16 +1,16 @@
 Name:		unicode-cldr-annotations
-Version:	36.12.120191002_0
+Version:	37.0_13.0_0_2
 Release:	1
 Summary:	Annotation files from the Unicode Common Locale Data Repository
 Group:		System/Libraries
 URL:		http://cldr.unicode.org/
 License:	Unicode License (BSD-like)
 Source0:	https://github.com/fujiwarat/cldr-emoji-annotation/archive/%{version}.tar.gz
-Source10:       http://www.unicode.org/Public/emoji/11.0/emoji-data.txt
-Source11:       http://www.unicode.org/Public/emoji/11.0/emoji-sequences.txt
-Source12:       http://www.unicode.org/Public/emoji/11.0/emoji-test.txt
-Source13:       http://www.unicode.org/Public/emoji/11.0/emoji-variation-sequences.txt
-Source14:       http://www.unicode.org/Public/emoji/11.0/emoji-zwj-sequences.txt
+Source10:       http://www.unicode.org/Public/15.0.0/ucd/emoji/emoji-data.txt
+Source11:       http://www.unicode.org/Public/emoji/15.0/emoji-sequences.txt
+Source12:       http://www.unicode.org/Public/emoji/15.0/emoji-test.txt
+Source13:       http://www.unicode.org/Public/15.0.0/ucd/emoji/emoji-variation-sequences.txt
+Source14:       http://www.unicode.org/Public/emoji/15.0/emoji-zwj-sequences.txt
 Source20:	https://www.unicode.org/Public/UNIDATA/UCD.zip
 BuildArch:	noarch
 BuildRequires:	unzip
