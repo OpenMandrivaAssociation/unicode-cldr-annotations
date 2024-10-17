@@ -3,7 +3,7 @@ Version:	37.0_13.0_0_2
 Release:	3
 Summary:	Annotation files from the Unicode Common Locale Data Repository
 Group:		System/Libraries
-URL:		http://cldr.unicode.org/
+URL:		https://cldr.unicode.org/
 License:	Unicode License (BSD-like)
 Source0:	https://github.com/fujiwarat/cldr-emoji-annotation/archive/%{version}.tar.gz
 Source10:       http://www.unicode.org/Public/15.0.0/ucd/emoji/emoji-data.txt
